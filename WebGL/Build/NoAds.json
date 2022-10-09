@@ -1,0 +1,17 @@
+{
+"companyName": "NorthPick",
+"productName": "Kids Coloring Book With Magic Pen",
+"productVersion": "1",
+"dataUrl": "NoAds.data.unityweb",
+"asmCodeUrl": "NoAds.asm.code.unityweb",
+"asmMemoryUrl": "NoAds.asm.memory.unityweb",
+"asmFrameworkUrl": "NoAds.asm.framework.unityweb",
+"TOTAL_MEMORY": 1610612736,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
